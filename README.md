@@ -2,7 +2,7 @@
 
 This is a solution to the "Pricing Card" challenge from Frontend Mentor. It is a responsive pricing card component that showcases different pricing options for a product or service.
 
-![Screenshot]([./screenshot.png](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/i6wu7n5sthrxgfpfibvx.jpg))
+![Screenshot](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/i6wu7n5sthrxgfpfibvx.jpg)
 
 ## Demo
 
